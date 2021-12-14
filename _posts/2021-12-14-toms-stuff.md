@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Tom's Terrific blog!"
+title:  "Welcome to Tom\'s Terrific blog!"
 date: 2021-12-14
 ---
 
